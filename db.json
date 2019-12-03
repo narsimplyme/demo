@@ -10,5 +10,55 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  camList: [
+        {
+          warning: true,
+          wid: "MOCKUP-1",
+          customer: "Valve",
+          descript: "Test",
+          status: 6,
+          author: 31231,
+          ssr: 41123,
+          sdl: 1231,
+          TGgroup: 23131,
+          TGname: 21321
+        },
+        {
+          warning: false,
+          wid: "MOCKUP-2",
+          customer: "EA",
+          descript: "MES adf",
+          status: 1,
+          author: 55667,
+          ssr: 55667,
+          sdl: 333,
+          TGgroup: 11,
+          TGname: 1231
+        },
+        {
+          warning: false,
+          wid: "MOCKUP-3",
+          customer: "Paradox",
+          descript: "New install of x",
+          status: 2,
+          author: 2123211,
+          ssr: 123123,
+          sdl: 41312,
+          TGgroup: 72342,
+          TGname: 12551
+        },
+        {
+          warning: true,
+          wid: "MOCKUP-4",
+          customer: "hTC",
+          descript: "help this company",
+          status: 3,
+          author: 35667,
+          ssr: 55657,
+          sdl: 33663,
+          TGgroup: 11322,
+          TGname: 2311
+        }
+      ]
 }
