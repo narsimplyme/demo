@@ -1,65 +1,66 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 122" },
-    { "id": 2, "title": "Post 122" },
-    { "id": 3, "title": "Post 313" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "camList": [
-        {
-          "warning": true,
-          "wid": "MOCKUP-1",
-          "customer": "Valve",
-          "descript": "Test",
-          "status": 6,
-          "author": 31231,
-          "ssr": 41123,
-          "sdl: 1231,
-          "tggroup": 23131,
-          "tgname": 21321
-        },
-    {
-          "warning": true,
-          "wid": "MOCKUP-1",
-          "customer": "Valve",
-          "descript": "Test",
-          "status": 6,
-          "author": 31231,
-          "ssr": 41123,
-          "sdl: 1231,
-          "tggroup": 23131,
-          "tgname": 21321
-        },
-    {
-          "warning": true,
-          "wid": "MOCKUP-1",
-          "customer": "Valve",
-          "descript": "Test",
-          "status": 6,
-          "author": 31231,
-          "ssr": 41123,
-          "sdl: 1231,
-          "tggroup": 23131,
-          "tgname": 21321
-        },
-    {
-          "warning": true,
-          "wid": "MOCKUP-1",
-          "customer": "Valve",
-          "descript": "Test",
-          "status": 6,
-          "author": 31231,
-          "ssr": 41123,
-          "sdl: 1231,
-          "tggroup": 23131,
-          "tgname": 21321
-        },
-
-      ]
-}
+    "posts": [
+      { "id": 1, "title": "Post 122" },
+      { "id": 2, "title": "Post 122" },
+      { "id": 3, "title": "Post 313" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "camList": [
+          {
+            "warning": true,
+            "wid": "MOCKUP-1",
+            "customer": "Valve",
+            "descript": "Test",
+            "status": 6,
+            "author": 31231,
+            "ssr": 41123,
+            "sdl": 1231,
+            "tggroup": 23131,
+            "tgname": 21321
+          },
+          {
+            "warning": true,
+            "wid": "MOCKUP-1",
+            "customer": "Valve",
+            "descript": "Test",
+            "status": 6,
+            "author": 31231,
+            "ssr": 41123,
+            "sdl": 1231,
+            "tggroup": 23131,
+            "tgname": 21321
+          },
+          {
+            "warning": true,
+            "wid": "MOCKUP-1",
+            "customer": "Valve",
+            "descript": "Test",
+            "status": 6,
+            "author": 31231,
+            "ssr": 41123,
+            "sdl": 1231,
+            "tggroup": 23131,
+            "tgname": 21321
+          },
+          {
+            "warning": true,
+            "wid": "MOCKUP-1",
+            "customer": "Valve",
+            "descript": "Test",
+            "status": 6,
+            "author": 31231,
+            "ssr": 41123,
+            "sdl": 1231,
+            "tggroup": 23131,
+            "tgname": 21321
+          }
+      
+        ]
+  }
+  
